@@ -4,7 +4,7 @@ title = "PHR | Data Scientist "
 theme = "Theme Somrat"
 # disable language
 # disableLanguages = [] # disable language from here
-canonifyURL = "true"
+canonifyURLs = "true"
 
 ############################# Plugins ##############################
 
